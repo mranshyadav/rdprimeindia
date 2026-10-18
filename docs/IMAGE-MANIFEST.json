@@ -1,0 +1,326 @@
+{
+  "note": "Product photography is of two kinds and the distinction matters. `images` are RD Prime India's own photographs, taken from its IndiaMART listings (seller id 232891342); every individual product listing uses one of these. `clientSupplied` are crops from catalogue pages the client provided on 2026-10-11; these appear ONLY in category tiles and section figures, never against a listing with published specifications. No stock library imagery is used.",
+  "downloadedOn": "2026-10-11",
+  "images": {
+    "split-rubber-bushing": {
+      "file": "split-rubber-bushing.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2025/7/531534160/VY/AW/HI/232891342/split-rubber-bushing-1000x1000.jpg",
+      "bytes": 14732,
+      "requestedSize": "1000x1000",
+      "width": 500,
+      "height": 500
+    },
+    "industrial-rubber-bush-silicone": {
+      "file": "industrial-rubber-bush-silicone.jpeg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/11/463698670/ZS/OJ/NO/232891342/silicone-rubber-bush-1000x1000.jpeg",
+      "bytes": 36579,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 1000
+    },
+    "red-silicone-o-ring": {
+      "file": "red-silicone-o-ring.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/10/460274230/YU/NS/HV/232891342/red-silicone-o-ring-1000x1000.jpg",
+      "bytes": 69257,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 809
+    },
+    "stabilizer-bar-rubber-bushing": {
+      "file": "stabilizer-bar-rubber-bushing.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/10/460272056/VP/AF/IZ/232891342/stabilizer-bar-bushing-1000x1000.jpg",
+      "bytes": 46118,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 654
+    },
+    "colored-rubber-gasket": {
+      "file": "colored-rubber-gasket.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/10/460274383/PH/AM/GM/232891342/colored-rubber-gasket-1000x1000.jpg",
+      "bytes": 57277,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 709
+    },
+    "industrial-rubber-bush": {
+      "file": "industrial-rubber-bush.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2025/7/531522806/ZS/IA/FN/232891342/industrial-bushes-1000x1000.jpg",
+      "bytes": 52915,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 1000
+    },
+    "rubber-flange-gaskets": {
+      "file": "rubber-flange-gaskets.jpeg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/11/463698187/QV/HU/DS/232891342/rubber-flange-gaskets-1000x1000.jpeg",
+      "bytes": 57232,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 750
+    },
+    "metal-bush-for-plastic": {
+      "file": "metal-bush-for-plastic.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2025/10/550783906/FF/XN/HR/232891342/manufacturer-of-metal-bush-for-plastic-1000x1000.jpg",
+      "bytes": 50160,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 884
+    },
+    "epdm-rubber-gasket": {
+      "file": "epdm-rubber-gasket.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/11/463615836/ZN/TV/ZJ/232891342/epdm-rubber-gasket-1000x1000.jpg",
+      "bytes": 32734,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 1000
+    },
+    "silicone-rubber-gasket": {
+      "file": "silicone-rubber-gasket.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2025/10/550781520/LD/GG/UA/232891342/silicone-rubber-gasket-1000x1000.jpg",
+      "bytes": 52427,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 606
+    },
+    "plastic-custom-molded-components": {
+      "file": "plastic-custom-molded-components.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/ANDROID/Default/2024/11/468101779/KA/MC/TS/232891342/product-jpeg-1000x1000.jpg",
+      "bytes": 39199,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 814
+    },
+    "silicone-rubber-plugs": {
+      "file": "silicone-rubber-plugs.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/10/460272868/OD/KO/AL/232891342/rubber-plugs-1000x1000.jpg",
+      "bytes": 49944,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 601
+    },
+    "silicone-rubber-products": {
+      "file": "silicone-rubber-products.jpeg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/10/456563323/UC/KC/KX/232891342/product-2-1000x1000.jpeg",
+      "bytes": 59287,
+      "requestedSize": "1000x1000",
+      "width": 563,
+      "height": 1000
+    },
+    "engineering-plastic-parts": {
+      "file": "engineering-plastic-parts.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/ANDROID/Default/2024/11/468101791/JD/UV/PV/232891342/product-jpeg-1000x1000.jpg",
+      "bytes": 55019,
+      "requestedSize": "1000x1000",
+      "width": 944,
+      "height": 1000
+    },
+    "rubber-end-cap": {
+      "file": "rubber-end-cap.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2025/10/550789387/EK/OZ/AO/232891342/silicone-rubber-packing-1000x1000.jpg",
+      "bytes": 75415,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 511
+    },
+    "silicone-rubber-products-2": {
+      "file": "silicone-rubber-products-2.jpeg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/10/456563338/CG/CQ/IP/232891342/product-3-1000x1000.jpeg",
+      "bytes": 115860,
+      "requestedSize": "1000x1000",
+      "width": 563,
+      "height": 1000
+    },
+    "black-plastic-end-cap": {
+      "file": "black-plastic-end-cap.webp",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/11/463612878/MQ/ZO/UJ/232891342/plastic-bush-1000x1000.webp",
+      "bytes": 34493,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 1000
+    },
+    "black-plastic-end-caps": {
+      "file": "black-plastic-end-caps.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2025/10/550775714/MT/HG/SG/232891342/black-plastic-caps-1000x1000.jpg",
+      "bytes": 41650,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 659
+    },
+    "plastic-end-caps": {
+      "file": "plastic-end-caps.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2025/10/550776206/UV/RV/NB/232891342/plastic-spare-parts-1000x1000.jpg",
+      "bytes": 85429,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 741
+    },
+    "silicon-o-rings": {
+      "file": "silicon-o-rings.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/10/460273193/YW/WQ/DU/232891342/copper-bottle-silicone-o-ring-1000x1000.jpg",
+      "bytes": 74738,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 667
+    },
+    "rubber-o-ring": {
+      "file": "rubber-o-ring.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/10/460274610/OV/VI/PI/232891342/rubber-o-ring-1000x1000.jpg",
+      "bytes": 59487,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 1000
+    },
+    "black-rubber-grommet": {
+      "file": "black-rubber-grommet.webp",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/11/463608385/MH/CK/FH/232891342/black-gurmut-rubber-1000x1000.webp",
+      "bytes": 29891,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 934
+    },
+    "nitrile-rubber-o-rings": {
+      "file": "nitrile-rubber-o-rings.jpeg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2026/10/650270739/UI/KG/DU/232891342/nitrile-rubber-o-rings-1000x1000.jpeg",
+      "bytes": 85328,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 947
+    },
+    "silicone-rubber-o-ring": {
+      "file": "silicone-rubber-o-ring.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/10/460275348/PW/HW/AS/232891342/silicone-rubber-o-ring-1000x1000.jpg",
+      "bytes": 196661,
+      "requestedSize": "1000x1000",
+      "width": 750,
+      "height": 1000
+    },
+    "silicone-rubber-grommet": {
+      "file": "silicone-rubber-grommet.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2025/10/556171656/WY/BP/HS/232891342/silicone-rubber-grommet-1000x1000.jpg",
+      "bytes": 18838,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 813
+    },
+    "black-rubber-grommet-2": {
+      "file": "black-rubber-grommet-2.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2025/10/556165521/EZ/NZ/BZ/232891342/black-rubber-grommet-1000x1000.jpg",
+      "bytes": 44145,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 1000
+    },
+    "silicon-rubber-washer": {
+      "file": "silicon-rubber-washer.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/11/463589524/CX/JV/QK/232891342/silicon-rubber-washer-1000x1000.jpg",
+      "bytes": 46503,
+      "requestedSize": "1000x1000",
+      "width": 730,
+      "height": 1000
+    },
+    "plastic-round-washer": {
+      "file": "plastic-round-washer.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/11/463604379/VI/WL/TJ/232891342/plastic-round-washer-1000x1000.jpg",
+      "bytes": 30049,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 1000
+    },
+    "multicolor-plastic-parts": {
+      "file": "multicolor-plastic-parts.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/12/471408503/XG/VY/CS/232891342/multicolor-plastic-parts-manufacturer-1000x1000.jpg",
+      "bytes": 95897,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 869
+    },
+    "silicon-rubber-washer-2": {
+      "file": "silicon-rubber-washer-2.jpeg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/11/463695998/IC/VF/ZI/232891342/silicon-rubber-washer-1000x1000.jpeg",
+      "bytes": 81091,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 1000
+    },
+    "plastic-rubber-washers": {
+      "file": "plastic-rubber-washers.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2025/7/531525322/JZ/XG/PM/232891342/rubber-washers-1000x1000.jpg",
+      "bytes": 76104,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 1000
+    },
+    "white-plastic-washer": {
+      "file": "white-plastic-washer.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/SELLER/Default/2024/10/460276542/TS/GH/XU/232891342/all-plastic-washer-1000x1000.jpg",
+      "bytes": 64857,
+      "requestedSize": "1000x1000",
+      "width": 1000,
+      "height": 994
+    },
+    "plastic-molded-parts": {
+      "file": "plastic-molded-parts.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/NSDMERP/Default/2024/9/453402986/VK/BO/CH/232891342/232891342-product-1727181443116-1000x1000.jpg",
+      "bytes": 73325,
+      "requestedSize": "1000x1000",
+      "width": 750,
+      "height": 1000
+    },
+    "square-rubber-pad": {
+      "file": "square-rubber-pad.jpg",
+      "sourceUrl": "https://5.imimg.com/data5/NSDMERP/Default/2024/9/453403518/UY/MA/YM/232891342/232891342-product-1727181502565-1000x1000.jpg",
+      "bytes": 56172,
+      "requestedSize": "1000x1000",
+      "width": 750,
+      "height": 1000
+    }
+  },
+  "removed": {
+    "note": "Downloaded from the company's listings but NOT published \u2014 see docs/VERIFIED-COMPANY-FACTS.md \u00a76.",
+    "files": [
+      "drone-parts",
+      "hydraulic-oil-seal",
+      "light-stand",
+      "workshop-detail"
+    ]
+  },
+  "clientSupplied": {
+    "addedOn": "2026-10-11",
+    "provenance": "Supplied by the client as finished catalogue pages. The pages carry a \"RUBBER SOLUTIONS\" lockup rather than RD Prime India's, and the photography does not match the company's own IndiaMART images, so these are most likely licensed or template assets rather than photographs of RD Prime parts. OWNERSHIP IS UNCONFIRMED \u2014 obtain written confirmation of the licence before the site goes live.",
+    "selectionRule": "Only crops depicting products inside the verified range were used: O-rings, gaskets, grommets and moulded rubber/plastic parts. Everything else in the supplied catalogues was rejected \u2014 see section 8.",
+    "placement": "Category tiles and one section figure only. The homepage hero is entirely RD Prime India's own photography, and no product detail page uses client imagery.",
+    "resolution": "Catalogue-page extracts, 290-294px wide. That is enough for the 212px category tiles (about 1.45x on a 2x display) and NOT enough for anything larger. Do not reuse these crops in a wider slot; request the original photography from the client instead.",
+    "images": {},
+    "withdrawn": {
+      "client-o-rings-hero": {
+        "reason": "Placed as the homepage hero, then withdrawn at the client's request on 2026-10-11; the hero returned to RD Prime India's own O-ring photograph (silicon-o-rings.jpg). File deleted from the repository.",
+        "source": "catalogue page 10.png, hero area \u2014 re-cuttable if it is wanted again"
+      },
+      "client-black-seals": {
+        "reason": "Placed as a homepage hero thumbnail, then withdrawn at the client's request on 2026-10-11 so the whole hero block is RD Prime India's own photography. File deleted from the repository.",
+        "source": "catalogue page 10.png \u2014 re-cuttable if it is wanted again"
+      },
+      "client-flat-gaskets": {
+        "reason": "Placed as a homepage hero thumbnail, then withdrawn at the client's request on 2026-10-11 so the whole hero block is RD Prime India's own photography. File deleted from the repository.",
+        "source": "catalogue page 10.png \u2014 re-cuttable if it is wanted again"
+      },
+      "client-red-seals": {
+        "reason": "Placed in the homepage \u201cWhy RD Prime India\u201d figure, which renders 441 CSS px wide and therefore needs ~882px on a 2x display. The crop is only 317px, a 2.8x upscale and visibly soft \u2014 roughly double the upscale of any other image on the page. Withdrawn 2026-10-11; the figure returned to silicone-rubber-gasket.jpg (1000x606, no upscale). File deleted.",
+        "source": "catalogue page 10.png \u2014 re-cuttable, but only suitable for a tile-sized slot"
+      },
+      "client-multicolour-orings": {
+        "reason": "Used as a category tile, then withdrawn on resolution grounds 2026-10-11. The 212px tile needs ~424px on a 2x display and the crop is only ~290px (1.44x upscale); client-moulded-components was also the softest of the three at source. All tiles now use 1000px photographs of RD Prime India's own.",
+        "source": "catalogue pages 10.png / 11.png / 12.png"
+      },
+      "client-grommets": {
+        "reason": "Used as a category tile, then withdrawn on resolution grounds 2026-10-11. The 212px tile needs ~424px on a 2x display and the crop is only ~290px (1.44x upscale); client-moulded-components was also the softest of the three at source. All tiles now use 1000px photographs of RD Prime India's own.",
+        "source": "catalogue pages 10.png / 11.png / 12.png"
+      },
+      "client-moulded-components": {
+        "reason": "Used as a category tile, then withdrawn on resolution grounds 2026-10-11. The 212px tile needs ~424px on a 2x display and the crop is only ~290px (1.44x upscale); client-moulded-components was also the softest of the three at source. All tiles now use 1000px photographs of RD Prime India's own.",
+        "source": "catalogue pages 10.png / 11.png / 12.png"
+      }
+    },
+    "status": "NONE CURRENTLY IN USE. All eight extracted crops were withdrawn between the hero revert and the resolution review on 2026-10-11. The site is once again 100% RD Prime India's own photography. The crops are documented here so the decision is auditable and so they can be re-cut if higher-resolution originals never arrive."
+  }
+}

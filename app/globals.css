@@ -1,0 +1,193 @@
+@import "tailwindcss";
+
+/* ==========================================================================
+   RD Prime India — design tokens
+   Swiss-industrial system: navy authority, graphite structure, copper accent.
+   ========================================================================== */
+@theme {
+  /* Brand -------------------------------------------------------------- */
+  --color-navy-50: #eef2f7;
+  --color-navy-100: #d6e0ea;
+  --color-navy-200: #aec0d4;
+  --color-navy-400: #567a9c;
+  --color-navy-600: #1d3a57;
+  --color-navy-700: #18314a;
+  --color-navy: #14283d;
+  --color-navy-900: #0d1b29;
+
+  --color-graphite: #303841;
+  --color-graphite-600: #434d58;
+
+  /* Accent. Each step is tuned to a contrast target, not just to a hue ramp:
+     - copper:       brand accent for rules, borders and non-text marks
+     - copper-light: text/icons on navy  (4.52:1 on #14283d)
+     - copper-600:   text and links on light; also the filled-button ground,
+                     where white sits at 5.00:1
+     - copper-700:   filled-button hover
+     Plain `copper` is 3.77:1 against white and 3.98:1 against navy, so it is
+     never used for text on either. */
+  --color-copper: #c66b3d;
+  --color-copper-light: #cb784e;
+  --color-copper-600: #ab5930;
+  --color-copper-700: #8f4a28;
+  --color-copper-50: #fbf2ed;
+
+  /* Secondary accent family — one muted hue per product category, used for
+     wayfinding (labels, hairline rules, the active filter) rather than
+     decoration, so the copper brand accent still owns the CTAs.
+     Every value is tuned to clear 4.5:1 on white, on the canvas AND on navy,
+     so each has a light variant for pale grounds and a *-on-dark variant.
+     Saturation is held low across the set: five of these together still read
+     as one restrained industrial system, not a colour wheel. */
+  --color-steel: #4276a1;          /* 4.84 on white */
+  --color-steel-on-dark: #5d92bd;  /* 4.51 on navy  */
+  --color-teal: #2a7c85;           /* 4.86 on white */
+  --color-teal-on-dark: #3db5c2;   /* 6.13 on navy  */
+  --color-moss: #4f7e3e;           /* 4.79 on white */
+  --color-moss-on-dark: #6bab54;   /* 5.41 on navy  */
+  --color-ochre: #8e6d26;          /* 4.81 on white */
+  --color-ochre-on-dark: #c99b36;  /* 5.87 on navy  */
+
+  /* Neutrals ----------------------------------------------------------- */
+  --color-canvas: #f7f8fa;
+  --color-surface: #ffffff;
+  /* Secondary text. Darkened from the brief's #697586, which reaches only
+     4.40:1 on the warm off-white background; this is 4.53:1 there and
+     4.81:1 on white. */
+  --color-slate: #677384;
+  --color-hairline: #e1e6eb;
+  --color-hairline-strong: #ccd4dc;
+  /* Large step numerals. hairline-strong reads at only 1.4:1 on the canvas —
+     fine for a rule, far too faint for a numeral that carries sequence. */
+  --color-numeral: #7d92a6;
+
+  /* Typography --------------------------------------------------------- */
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-display: var(--font-manrope), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  /* Radii — deliberately tight, engineered rather than friendly -------- */
+  --radius-xs: 2px;
+  --radius-sm: 3px;
+  --radius-md: 4px;
+  --radius-lg: 6px;
+
+  /* Elevation — low, diffuse, never glossy ----------------------------- */
+  --shadow-hairline: 0 0 0 1px rgb(20 40 61 / 0.07);
+  --shadow-card: 0 1px 2px rgb(20 40 61 / 0.04), 0 6px 16px -8px rgb(20 40 61 / 0.1);
+  --shadow-lift: 0 2px 4px rgb(20 40 61 / 0.05), 0 16px 32px -12px rgb(20 40 61 / 0.16);
+
+  /* Motion ------------------------------------------------------------- */
+  --ease-industrial: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    border-color: var(--color-hairline);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--color-canvas);
+    color: var(--color-navy);
+    font-family: var(--font-sans);
+    font-feature-settings: "cv11", "ss01";
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.021em;
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  /* Visible, branded focus ring on keyboard navigation only */
+  :focus-visible {
+    outline: 2px solid var(--color-copper);
+    outline-offset: 2px;
+    border-radius: var(--radius-xs);
+  }
+
+  ::selection {
+    background-color: var(--color-navy);
+    color: #fff;
+  }
+}
+
+@layer utilities {
+  /* Technical label: the uppercase micro-type used across spec sections */
+  .label-technical {
+    font-size: 0.6875rem;
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Fine blueprint grid — used sparingly on dark sections */
+  .bg-blueprint {
+    background-image:
+      linear-gradient(to right, rgb(255 255 255 / 0.045) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(255 255 255 / 0.045) 1px, transparent 1px);
+    background-size: 56px 56px;
+  }
+
+  .bg-blueprint-light {
+    background-image:
+      linear-gradient(to right, rgb(20 40 61 / 0.035) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(20 40 61 / 0.035) 1px, transparent 1px);
+    background-size: 56px 56px;
+  }
+
+  /* Scroll-reveal: opt-in, and a no-op when the OS asks for less motion */
+  .reveal {
+    opacity: 0;
+    transform: translateY(10px);
+    transition:
+      opacity 0.45s var(--ease-industrial),
+      transform 0.45s var(--ease-industrial);
+    transition-delay: var(--reveal-delay, 0ms);
+  }
+
+  .reveal[data-shown="true"] {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
+  }
+}
